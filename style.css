@@ -35,6 +35,8 @@ h1 {
     color: darkolivegreen;
     font-size: 6rem;
     font-weight: 700;
+    justify-content: center;
+    align-items: center;
 }
 
 
